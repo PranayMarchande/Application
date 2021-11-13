@@ -1,4 +1,4 @@
-//Singly LL
+//SinglyLinear LL
 #include<stdio.h>
 #include<stdlib.h>
 
